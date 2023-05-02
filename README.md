@@ -5,3 +5,4 @@ Tes 123, tambahan hari ini
 
 | Nama   | Alamat  |
 | Test   | 1111    |
+| Test2  | 1234    |
