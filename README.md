@@ -5,5 +5,6 @@ Tes 123, tambahan hari ini
 Hari Jumat, 12 Mei 2023
 
 | Nama   | Alamat  |
+| ----- | ----- |
 | Test   | 1111    |
 | Test2  | 1234    |
